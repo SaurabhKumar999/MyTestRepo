@@ -1,0 +1,5 @@
+C:\Users\Lenovo\source\repos\School Management System\Domain Layer\obj\Debug\net6.0\Domain Layer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\School Management System\Domain Layer\obj\Debug\net6.0\Domain Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\School Management System\Domain Layer\obj\Debug\net6.0\Domain Layer.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\School Management System\Domain Layer\obj\Debug\net6.0\Domain Layer.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\School Management System\Domain Layer\obj\Debug\net6.0\Domain Layer.csproj.CoreCompileInputs.cache

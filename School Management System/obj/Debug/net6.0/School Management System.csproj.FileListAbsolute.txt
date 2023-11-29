@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\School Management System\School Management System\obj\Debug\net6.0\School Management System.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\School Management System\School Management System\obj\Debug\net6.0\School Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\School Management System\School Management System\obj\Debug\net6.0\School Management System.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\School Management System\School Management System\obj\Debug\net6.0\School Management System.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\School Management System\School Management System\obj\Debug\net6.0\School Management System.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\School Management System\School Management System\obj\Debug\net6.0\School Management System.MvcApplicationPartsAssemblyInfo.cache
